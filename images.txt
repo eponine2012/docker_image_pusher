@@ -6,3 +6,4 @@ nyanmisaka/jellyfin:latest-legacy
 macbre/nginx-http3:latest
 neilpang/acme.sh:latest
 linuxserver/qbittorrent:latest
+iyuucn/iyuuplus-dev:latest
