@@ -9,3 +9,4 @@ linuxserver/qbittorrent:latest
 iyuucn/iyuuplus-dev:latest
 chishin/wol-go-web:latest
 linuxserver/transmission:latest
+linuxserver/plex:latest
