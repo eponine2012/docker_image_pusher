@@ -9,4 +9,4 @@ linuxserver/qbittorrent:latest
 iyuucn/iyuuplus-dev:latest
 chishin/wol-go-web:latest
 synology/docviewer:latest
-linuxserver/transmission
+linuxserver/transmission:latest
