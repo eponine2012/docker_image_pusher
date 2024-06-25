@@ -7,3 +7,6 @@ macbre/nginx-http3:latest
 neilpang/acme.sh:latest
 linuxserver/qbittorrent:latest
 iyuucn/iyuuplus-dev:latest
+chishin/wol-go-web:latest
+synology/docviewer:latest
+linuxserver/transmission:latest
