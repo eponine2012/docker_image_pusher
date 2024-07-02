@@ -10,3 +10,4 @@ iyuucn/iyuuplus-dev:latest
 chishin/wol-go-web:latest
 linuxserver/transmission:latest
 linuxserver/plex:latest
+sitoi/dailycheckin:latest
