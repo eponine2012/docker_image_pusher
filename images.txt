@@ -11,3 +11,4 @@ chishin/wol-go-web:latest
 linuxserver/transmission:latest
 linuxserver/plex:latest
 sitoi/dailycheckin:latest
+estrellaxd/auto_bangumi:latest
