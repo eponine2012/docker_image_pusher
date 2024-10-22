@@ -6,10 +6,6 @@ nyanmisaka/jellyfin:latest-legacy
 macbre/nginx-http3:latest
 neilpang/acme.sh:latest
 linuxserver/qbittorrent:latest
-iyuucn/iyuuplus-dev:latest
 chishin/wol-go-web:latest
 linuxserver/transmission:latest
-linuxserver/plex:latest
-sitoi/dailycheckin:latest
-estrellaxd/auto_bangumi:latest
 homeassistant/home-assistant:latest
