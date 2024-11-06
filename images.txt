@@ -9,4 +9,4 @@ linuxserver/qbittorrent:latest
 chishin/wol-go-web:latest
 linuxserver/transmission:latest
 homeassistant/home-assistant:latest
-jxxghp/moviepilot-v2:2.0.0-beta
+jxxghp/moviepilot-v2:latest
