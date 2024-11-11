@@ -10,3 +10,4 @@ chishin/wol-go-web:latest
 linuxserver/transmission:latest
 homeassistant/home-assistant:latest
 jxxghp/moviepilot-v2:latest
+jeessy/ddns-go:latest
