@@ -12,3 +12,4 @@ jxxghp/moviepilot-v2:latest
 jeessy/ddns-go:latest
 ghcr.io/advplyr/audiobookshelf:latest
 chenzhaoyu94/chatgpt-web:latest
+zhayujie/chatgpt-on-wechat:latest
