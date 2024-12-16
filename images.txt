@@ -4,9 +4,9 @@ linuxserver/calibre-web:latest
 nyanmisaka/jellyfin:latest-legacy
 macbre/nginx-http3:latest
 neilpang/acme.sh:latest
-linuxserver/qbittorrent:latest
-chishin/wol-go-web:latest
+linuxserver/qbittorrent:4.6.7
 linuxserver/transmission:4.0.5
+chishin/wol-go-web:latest
 homeassistant/home-assistant:latest
 jxxghp/moviepilot-v2:latest
 jeessy/ddns-go:latest
