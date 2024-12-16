@@ -6,7 +6,7 @@ macbre/nginx-http3:latest
 neilpang/acme.sh:latest
 linuxserver/qbittorrent:latest
 chishin/wol-go-web:latest
-linuxserver/transmission:latest
+linuxserver/transmission:4.0.5
 homeassistant/home-assistant:latest
 jxxghp/moviepilot-v2:latest
 jeessy/ddns-go:latest
