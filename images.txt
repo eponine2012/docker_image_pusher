@@ -9,6 +9,7 @@ linuxserver/qbittorrent:latest
 linuxserver/transmission:latest
 easychen/cookiecloud:latest
 xhofe/alist:latest
+emby/embyserver:latest
 nyanmisaka/jellyfin:latest-legacy
 ghcr.io/advplyr/audiobookshelf:latest
 homeassistant/home-assistant:latest
