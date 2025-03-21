@@ -11,5 +11,5 @@ easychen/cookiecloud:latest
 xhofe/alist:latest
 emby/embyserver:latest
 nyanmisaka/jellyfin:latest-legacy
-ghcr.io/advplyr/audiobookshelf:latest
 homeassistant/home-assistant:latest
+ghcr.io/advplyr/audiobookshelf:latest
