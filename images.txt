@@ -8,3 +8,4 @@ linuxserver/qbittorrent:latest
 easychen/cookiecloud:latest
 nyanmisaka/jellyfin:latest
 ddsderek/wxchat:latest
+
