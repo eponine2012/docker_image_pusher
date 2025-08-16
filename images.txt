@@ -10,3 +10,4 @@ nyanmisaka/jellyfin:latest
 ddsderek/wxchat:latest
 postgres:latest
 requarks/wiki:latest
+ghcr.io/flaresolverr/flaresolverr:latest
